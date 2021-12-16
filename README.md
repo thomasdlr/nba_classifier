@@ -1,4 +1,5 @@
 # nba_classifier
+The aim of this project is to predict which players are likely to play at least 5 years in NBA, in order to help recruiters choose the best players
 
 The project includes 7 files :
 - nba_logreg.csv : the data
